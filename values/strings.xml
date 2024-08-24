@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Booking-app</string>
+    <string name="introTitle">Explore the <font color='#3f95ec'>\n World </font> with us</string>
+    <string name="subIntro">Lorem ipsum dolor sit amet, consectetur\n adipiscing elit, sed do eiusmod tempor.</string>
+</resources>
